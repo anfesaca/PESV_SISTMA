@@ -23,8 +23,8 @@ export const BolivarLogo: React.FC<BolivarLogoProps> = ({
     <div className={`flex items-center gap-3 select-none ${className}`}>
       {/* Emblema Oficial PESV provisto */}
       <img
-        src="/logo_pesv.png"
-        alt="Logo Oficial PESV"
+        src="/logo_progrescol.jpg"
+        alt="Logo Progrescol BIC S.A.S."
         className={`${s.img} w-auto object-contain drop-shadow-xs`}
       />
 
